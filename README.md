@@ -1,2 +1,14 @@
-# covid19-analysis
-A Python-based COVID-19 data analysis pipeline with Kaggle integration. Includes data cleaning, epidemiological metrics, and visualizations using Matplotlib, Seaborn, and Plotly for exploring global cases, deaths, and outbreak trends.
+# 🦠 COVID-19 Data Analysis
+
+This project is a Python-based COVID-19 data analysis pipeline.  
+It downloads data from Kaggle, cleans and preprocesses it, calculates key metrics, and visualizes global COVID-19 trends.  
+
+---
+
+## 📌 Features
+- Download dataset automatically using Kaggle API  
+- Clean and preprocess data (dates, country-level outbreaks)  
+- Calculate daily cases, deaths, growth rates, CFR, and doubling time  
+- Visualize global cases and deaths with Matplotlib, Seaborn, and Plotly  
+
+---
